@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346670400358",
+    "project_id": "divineshepherds-2003f",
+    "storage_bucket": "divineshepherds-2003f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346670400358:android:0353f1e526a453ec7ebea7",
+        "android_client_info": {
+          "package_name": "com.example.shepherds_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-k9f_8XFFfkcKRMSlGiXcQCRZtKoguAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
